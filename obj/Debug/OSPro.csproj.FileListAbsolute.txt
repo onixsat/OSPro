@@ -1,0 +1,12 @@
+C:\Users\onixs\Downloads\Compact-RAM-Cleaner-master (1)\Compact-RAM-Cleaner-master - Cópia\OSPro\Compact RAM Cleaner\bin\Debug\Compact RAM Cleaner.exe.config
+C:\Users\onixs\Downloads\Compact-RAM-Cleaner-master (1)\Compact-RAM-Cleaner-master - Cópia\OSPro\Compact RAM Cleaner\bin\Debug\Compact RAM Cleaner.exe
+C:\Users\onixs\Downloads\Compact-RAM-Cleaner-master (1)\Compact-RAM-Cleaner-master - Cópia\OSPro\Compact RAM Cleaner\bin\Debug\Compact RAM Cleaner.pdb
+C:\Users\onixs\Downloads\Compact-RAM-Cleaner-master (1)\Compact-RAM-Cleaner-master - Cópia\OSPro\Compact RAM Cleaner\obj\Debug\OSPro.csproj.AssemblyReference.cache
+C:\Users\onixs\Downloads\Compact-RAM-Cleaner-master (1)\Compact-RAM-Cleaner-master - Cópia\OSPro\Compact RAM Cleaner\obj\Debug\Compact_RAM_Cleaner.Form1.resources
+C:\Users\onixs\Downloads\Compact-RAM-Cleaner-master (1)\Compact-RAM-Cleaner-master - Cópia\OSPro\Compact RAM Cleaner\obj\Debug\Compact_RAM_Cleaner.Notify.resources
+C:\Users\onixs\Downloads\Compact-RAM-Cleaner-master (1)\Compact-RAM-Cleaner-master - Cópia\OSPro\Compact RAM Cleaner\obj\Debug\Compact_RAM_Cleaner.Properties.Resources.resources
+C:\Users\onixs\Downloads\Compact-RAM-Cleaner-master (1)\Compact-RAM-Cleaner-master - Cópia\OSPro\Compact RAM Cleaner\obj\Debug\Compact_RAM_Cleaner.Settings.resources
+C:\Users\onixs\Downloads\Compact-RAM-Cleaner-master (1)\Compact-RAM-Cleaner-master - Cópia\OSPro\Compact RAM Cleaner\obj\Debug\OSPro.csproj.GenerateResource.cache
+C:\Users\onixs\Downloads\Compact-RAM-Cleaner-master (1)\Compact-RAM-Cleaner-master - Cópia\OSPro\Compact RAM Cleaner\obj\Debug\OSPro.csproj.CoreCompileInputs.cache
+C:\Users\onixs\Downloads\Compact-RAM-Cleaner-master (1)\Compact-RAM-Cleaner-master - Cópia\OSPro\Compact RAM Cleaner\obj\Debug\Compact RAM Cleaner.exe
+C:\Users\onixs\Downloads\Compact-RAM-Cleaner-master (1)\Compact-RAM-Cleaner-master - Cópia\OSPro\Compact RAM Cleaner\obj\Debug\Compact RAM Cleaner.pdb
