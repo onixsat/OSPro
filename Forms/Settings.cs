@@ -1,13 +1,14 @@
-﻿using Microsoft.Win32;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
+using Microsoft.Win32;
 using static Compact_RAM_Cleaner.Helpers;
 using static Compact_RAM_Cleaner.SaveSystem;
 
@@ -643,9 +644,11 @@ namespace Compact_RAM_Cleaner
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             MessageBox.Show("Current directory path: " + Directory.GetCurrentDirectory());
-            wc.DownloadFile("https://raw.githubusercontent.com/github/platform-samples/master/LICENSE.txt", @"C:/Users/User/Desktop/test/test.txt");
-
-            Process.Start("powershell.exe", "C:\app.ps1");
+            using (var wc = new WebClient())
+            {
+                wc.DownloadFile("https://raw.githubusercontent.com/onixsat/OSPro/refs/heads/main/Scripts/app.ps1", @"C:/script1.ps1");
+            }
+            Process.Start("powershell.exe", "C:/script1.ps1");
             //Console.WriteLine("Current directory path: " + Directory.GetCurrentDirectory());
         }
     }
