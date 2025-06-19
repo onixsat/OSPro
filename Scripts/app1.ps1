@@ -500,6 +500,23 @@ Function Cleanup
 }
 
 # Listing all files in C:\Temp\* recursively, using Force parameter displays hidden files.
+
+# Set the folder path
+$path = "C:/Temp"
+# Check if folder not exists, and create it
+if (-not (Test-Path $path -PathType Container))
+{
+	try
+	{
+		New-Item -path $path -ItemType Directory -ErrorAction stop
+	}
+	catch
+	{
+		Write-Host "Unable to create Folder" -ForegroundColor Red
+		Write-Host $_.Exception.Message -ForegroundColor Red
+	}
+}
+
 $TempItems = Get-ChildItem -Path "C:\Temp\*" -Recurse -Force
 if ($TempItems.count -gt 1)
 {
